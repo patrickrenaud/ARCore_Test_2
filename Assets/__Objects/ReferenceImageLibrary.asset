@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5759754167968736090
+  m_GuidHigh: 5297359862197891251
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4644715272646948361
+      m_GuidHigh: 16095230658771094918
+    m_SerializedTextureGuid:
+      m_GuidLow: 2379080062027673603
+      m_GuidHigh: 714591810645740682
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Soldier
+    m_Texture: {fileID: 2800000, guid: 255fb00330b621048a4cf13877bdea09, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5245824965290351855
+      m_GuidHigh: 4265020058939264642
+    m_SerializedTextureGuid:
+      m_GuidLow: 6688984844205174365
+      m_GuidHigh: 7328308930257623194
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Soldier2
+    m_Texture: {fileID: 2800000, guid: aad22e5d0c465cd49a1854202562b365, type: 3}
