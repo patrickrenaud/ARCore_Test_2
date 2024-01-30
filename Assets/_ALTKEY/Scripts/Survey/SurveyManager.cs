@@ -120,7 +120,7 @@ namespace ca.altkey
 
         public IEnumerator Upload(string answer)
         {
-            UnityWebRequest www = UnityWebRequest.Post(_productionURL, answer);
+            UnityWebRequest www = UnityWebRequest.PostWwwForm(_productionURL, answer);
             yield return www.SendWebRequest();
 
             if (www.isNetworkError || www.isHttpError)
